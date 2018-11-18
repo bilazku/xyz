@@ -1,0 +1,237 @@
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "128.199.188.28",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO PREMIUM 1⚡"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "45.77.8.183",
+    "Flag" : "jp",
+    "Name" : "⚡VULTR JAPAN 1⚡"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "45.76.210.126",
+    "Flag" : "jp",
+    "Name" : "⚡VULTR JAPAN 2⚡"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "167.99.68.128",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO VIP 1⚡"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "209.97.170.96",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO VIP 2⚡"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "178.128.80.210",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO PREMIUM 2⚡"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "178.128.120.140",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO PREMIUM 3⚡"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "128.199.227.72",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO PREMIUM 4⚡"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "206.189.158.47",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO PREMIUM 5⚡"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "159.65.11.143",
+    "Flag" : "sg",
+    "Name" : "⚡SGDO VIP 3⚡"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "128.199.211.45",
+    "Flag" : "sg",
+    "Name" : "⚡Gaming Server 1⚡"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "198.13.57.238",
+    "Flag" : "jp",
+    "Name" : "⚡Gaming Server 2⚡"
+  } ],
+  "Payloads" : [ {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "GIZQCpBwTmZ3Su+HVOrnLRDAFGW1cLeelJ3qgkCXiMoOpSMJj4Rq7m7dGJNIQ442OLBFikGb4RkEwZLtyLn8E2JHDOwlaiazwWkvwGDfnZdkphxIPZAX6YH9dXbIppeiVutCajrf8KtxRaal5cu6Thb+i8s8KemYoydpQ0dxuECUgWps/G/+4sORVmH/ZWpKyladICI+PRWd3VR0jIocBiiExGoM/kXt7xIwv5o/jZ3+qcn0hSdma7AkGYBfVPKYwOsAHfXbYtU+3qF6EVwYRQ==",
+    "Name" : "\uD83D\uDD30D E F A U L T\uD83D\uDD30",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Default",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "CzmxFpwujwv1HXE7dyF33pMXvCN4OYhznUJPVuzHJxS8FyPcJrVj7X/mc+Nes/eaxcur2PU5aXS73u8HanOQfXy9gAsRGjwPBrdS7VH1ng9W3l4azrLAyY+m08KUyOsinuPD2DLD/PzXC03nIMAmQ2BETvJbYXITEBZZVoCNjyr8yvwpqQzJxMstB46o+4rE",
+    "Name" : "\uD83D\uDCF6GLOBE/TM PROMO",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "HIGHACTIVE 10 2days\nHIGHTACTIVE 20 3DAYS\nHIGHTACTIVE 30 7DAYS",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "a23Q4PQHswE/ficwNWADMotKfv5bVjfyWEgNQIsShDr9+MrmKxhiquHEChwIrdGK6U++HJqeW8/8CNtrG+8SuqqBpI5ZKe5pSgBgsRyMBeJGhs5DZa7NyUNN2u/UKJ77vYsoy5k5QzDVokbPzyy3Mw==",
+    "Name" : "\uD83D\uDCF6GLOBE/TM GOWATCH",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "GOSURF/GOTSCOMBO",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "1LH7y9QRQKt6vxWuWDygWr1DflbO9fVcPGRR3+oSy9AINo3nUAGBeXjTzhugpyOru3ABwPIhLMNKaK74RGO8lw==",
+    "Name" : "\uD83D\uDCF6TNT WHATAPP",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "WHATS10 TO 4545",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "fL9q+TE5jb6eQcjjZmzD7tqkin55E973iagZERZ/l9Y5Q4+bfaRj1bMZzz03Ti/+wfoheGw4fG7ihVkSoPKqeQ==",
+    "Name" : "\uD83D\uDCF6TNT SNAP",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SNAPCHAT10 to 4545",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "tzQjYepR03aEyya9LoeYw2emTlvnTmcbDv1MkVySQbqBsOXedptbBpcfkm4EW1hg",
+    "Name" : "\uD83D\uDCF6SMART AOC20 (Luzon)",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "128.199.215.120",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "AOC20 to 9999",
+    "UseDefaultProxy" : false
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "KU+K4Ub0ZJeoNRFjlZhSVDgdGvVBNTXxt8X/R8yuX9vTBxe8HvrtfJ9sEIoJjx7wtEt78JUocilGAOsTp/3Fnofnjj1ORepFOpBOx5BgMRCmOjonu81aP/0HH/3ZV+8UeZycphk4ifc82JweXkpoMQqa8KTQRpCsQJxhTmW1rTkLTdVasJfv97E/R/FDMxpALy2fNcYH1W5RNRYrW3CIBrwnkB3/2lYtkromsrBL2C/Q+FwNr2G2NtMBgJAwwaeNLFWXDIkp7NZV8n+o7lqOX5RtqHWb8CIxhXmkjPwiIH0jQE+qLwKhgENFGKAC9jcBpNvdGLvwJ+1ix1cFJIMLPsXP3gZNI57WKfmkbvc3PXQanslypY8Yhk3r4o5CcfvA",
+    "Name" : "\uD83D\uDCF6SUN TU PROMO 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN TU Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "EoRsOWKyPuzpWtEPodRkkInJHm/wmSlgpXwKE0dQ5PDcs9YfcaUXSs+stkxLUa7HEJpOpTUtI9yhoeBoGRGRNDRqmFQx9iQ0uHk6HKHHIbKPCy+nw0o9q/6/CT4r3JGpGksiIEk7RkVVLR7vf1edycV76Q5NzW3eCR3wbasYM54ikQFka6q3hOn1lanINWOMNy27dhoIhErvcxqeZd7ny8WHu4t8jzPyFsoTtlQptLe6WMHe8MQuoWxrD6qUYbGcDyti5fic2VoMZzkkfhqos7A19QmVxlcxU3N1z6Zufks=",
+    "Name" : "\uD83D\uDCF6SUN TU PROMO 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN TU Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "qem1zsKGE/7YWEKJtou4kb+4PPcbxXburDpHhV2hxcxyYkz+B61+eDAolfhT8rHuMuPdILx4290kkwqM/m+3KU90mGjt/kdSe0npj6/i/IoJ0Qq8FFqIQdPq7JoeC9Nwlq1xsDZvaDT6J9+kkJ8Dn55sI+0kfZeoisg8TefdLoA=",
+    "Name" : "\uD83D\uDCF6SUN CTC",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "CTC20 to 247",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "YuOuaG0jtz2vw8bFudxojIb82GYEhLKGDI8x1fZyaVbDiaQzWHc1LMPLEElf6zKl9Z2wpVzvEiwoFsIwv1CPR1+JszhOQ+W0boEc/6w4GR/zXWfDaHusqNNe0hKoLdfJ39NpN3eXQ/vUT3koJyFBTazLDiTzGNGy0i26Rn55tTA=",
+    "Name" : "\uD83D\uDCF6SUN TU (NO BLOCK)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN TU NO BLOCK",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 5,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "Ic+y9le5kZLubkQ60fcb3tE/pl2HwjNGONdl4xjv9zJPgvYaaswOw4Yhfjg5NX/msXmvmbVJWiXLi7i7sFcQAw==",
+    "Name" : "\uD83D\uDCF6TNT NO LOAD (Updated)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "mini5-6.opera-mini.net.trinityvpnx.pointdns.xyz",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "TNT NO LOAD",
+    "UseDefaultProxy" : false
+  }, {
+    "Format" : 5,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "bzb7imCLSKr0V8NkA35nKKOmNb0N3s5S2CxiB2/MSMYh9bB+1BZj8aXFxATBg3BOCdKNiosdulQTuEZour+CyRylAj5Ut5YHQZgdNL/zVP8=",
+    "Name" : "\uD83D\uDCF6SUN FB20",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "FB20 to 247",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "1kbsIoVKkXKz2KVag0dB5lTeSSC/QGZJhMnjaPWU3tEix9ooPcxcsWtrFtFnSHki",
+    "Name" : "\uD83D\uDCF6TNT IG10 Promo",
+    "OnlineHost" : true,
+    "Port" : 3128,
+    "Proxy" : "m.instagram.com.128.199.215.120.pointdns.xyz",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "IG10 to 4545",
+    "UseDefaultProxy" : false
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "<strong>\nWhat's New?\n</strong>\n<br>\n<strong>\n1.5\n</strong>\n<br>\nAdded Private Server\n<br>\n</strong>\n<strong>TAKE NOTE !!!</strong>\n<br>\nDon't Multi Login \n<br>\nOne Account \n<br>\nOne Device\n<br>\nNon-Torrent SERVER Wag e Torrent\n<br>\n-AUTOMATIC-\n<br>\n-SUSPENDED-\n<br>\n<br>\n<strong>\n<br>\n30 Days Validity\n<br>\nPremium & VIP\n</strong>\n<br>\n<br>\n<br>\n©Team Trinity©\n</strong>\n<br>\n<strong>\n<strong>\n° shigeno\n</strong>\n<br>\n° mjal\n<strong>\n<br>\n° daybreakersx\n</strong>\n<br>",
+  "Version" : 1.5
+}
